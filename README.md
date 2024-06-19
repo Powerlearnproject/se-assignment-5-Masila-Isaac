@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XoLGRbHq)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15301659&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-5
 Installation and Navigation of Visual Studio Code (VS Code)
  Instructions:
@@ -7,6 +9,33 @@ Answer the following questions based on your understanding of the installation a
 
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
+   Step 1: Go to the Download Page
+
+Visual Studio Code Download Page
+
+Step 2: Download and Install
+
+Click the "Download" button for Windows 11.
+Choose "Normal" installation.
+[Image: VS Code Download Page]
+
+Step 3: Accept License Agreement
+
+Read and accept the license agreement.
+Click "Next".
+[Image: License Agreement]
+
+Step 4: Choose Installation Location
+
+Select an installation location.
+Click "Next".
+[Image: Installation Location]
+
+Step 5: Install and Launch
+
+Click "Install" to start the installation process.
+Wait for the installation to complete.
+Launch VS Code from the Start menu or desktop shortcut.
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
